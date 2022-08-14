@@ -8,8 +8,8 @@ Expedia
 
 * Find goals/objectives from the problem or the question you are trying to find solution for.
 * Make a quick introduction and present what is in the Data.
-Do some data analysis and data visuilization like tables, plots and maps. 
-Conclusion and findings to answer the question. (Find any correlation)
+* Do some data analysis and data visuilization like tables, plots and maps. 
+*Conclusion and findings to answer the question. (Find any correlation)
 
 ## Resources
 
