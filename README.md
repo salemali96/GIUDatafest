@@ -1,8 +1,8 @@
-# GIUDatafest
+# GIUDatafest 2022
 
 ## Datasets
 
-Expedia
+Expedia: https://www.kaggle.com/competitions/expedia-hotel-recommendations/data?select=train.csv
 
 ## Presentation guidelines
 
@@ -27,8 +27,8 @@ Expedia
 * Python
   * Seaborn: https://seaborn.pydata.org/
   * matplotlib: https://matplotlib.org/stable/tutorials/index.html
-  * https://www.simplilearn.com/tutorials/python-tutorial/data-visualization-in-python#:~:text=Python%20offers%20several%20plotting%20libraries,most%20simple%20and%20effective%20way
-  * https://gilberttanner.com/blog/introduction-to-data-visualization-inpython/
+  * Data Visualization in Python tutorial: https://www.simplilearn.com/tutorials/python-tutorial/data-visualization-in-python#:~:text=Python%20offers%20several%20plotting%20libraries,most%20simple%20and%20effective%20way
+  * Python charts tutorial: https://gilberttanner.com/blog/introduction-to-data-visualization-inpython/
 
 * Tableau
   * Tutorial: https://www.tutorialspoint.com/tableau/tableau_bar_chart.htm
