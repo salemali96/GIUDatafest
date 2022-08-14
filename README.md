@@ -13,7 +13,7 @@
 
 * Find goals/objectives from the problem or the question you are trying to find solution for.
 * Make a quick introduction and present what is in the Data.
-* Do some data analysis and data visuilization like tables, plots and maps. 
+* Do some data analysis and data visualization  like tables, plots and maps. 
 * Conclusion and findings to answer the question. (Find any correlation)
 
 ## Resources
@@ -27,7 +27,7 @@
 
 * Data Analysis tutorials: https://www.geeksforgeeks.org/data-analysis-with-python/
 
-### Data visuilization
+### Data visualization 
 
 * Python
   * Seaborn: https://seaborn.pydata.org/
