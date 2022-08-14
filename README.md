@@ -2,7 +2,12 @@
 
 ## Datasets
 
-Expedia: https://www.kaggle.com/competitions/expedia-hotel-recommendations/data?select=train.csv
+* Expedia: https://www.kaggle.com/competitions/expedia-hotel-recommendations/data?select=train.csv
+* Job Market: https://www.kaggle.com/datasets/sl6149/data-scientist-job-market-in-the-us
+* International football results from 1872 to 2022: https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017
+* Movies: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+* 
+
 
 ## Presentation guidelines
 
