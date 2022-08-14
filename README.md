@@ -14,7 +14,7 @@
 * Find goals/objectives from the problem or the question you are trying to find solution for.
 * Make a quick introduction and present what is in the Data.
 * Do some data analysis and data visualization  like tables, plots and maps. 
-* Conclusion and findings to answer the question. (for example: find any correlations)
+* Conclusion and findings to answer the question. (For example: find any correlations)
 
 ## Resources
 
