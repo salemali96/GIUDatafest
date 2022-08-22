@@ -1,5 +1,12 @@
 # GIUDatafest 2022
 
+## Qualifying Task
+Make sure you know how to do these tasks before joining the event:
+* Import libraries like pandas, numpy, scikit-learn, matlibplot, seaborn
+* Read csv or excel files 
+* Data preprocessing tasks like removing columns, checking missing values, finding outliers and correlations between variables. (Data cleaning, data transformation, and data reduction)
+* Data visualization tasks like making histograms, boxplots, charts and maps (for 2 variables or more)
+
 ## Datasets
 
 * Expedia: https://www.kaggle.com/competitions/expedia-hotel-recommendations/data?select=train.csv
